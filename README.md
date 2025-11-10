@@ -7,7 +7,7 @@ Alembic is supported, it should correctly ignore objects (indexes, table partiti
 ## Install
 
 ```bash
-$ pip install git+https://github.com/AntiSol/sqlalchemy-timescaledb.git
+$ pip install git+https://github.com/c0dewriter/sqlalchemy-timescaledb.git
 ```
 
 ## Usage
